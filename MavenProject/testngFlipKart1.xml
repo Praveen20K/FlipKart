@@ -5,5 +5,5 @@
     <classes>
       <class name="testcase.TC_001FlipKart"/>
     </classes>
-  </test> <!-- Test1FlipKart -->
+  </test> <!-- Test-->
 </suite> <!-- Suite -->
